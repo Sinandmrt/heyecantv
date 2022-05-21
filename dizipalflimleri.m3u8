@@ -1,100 +1,100 @@
 #EXTM3U
-#EXTINF: -1 tvg-id=Morbius  tvg-logo="https://image.tmdb.org/t/p/w500/h4WLN3cmEjCsH1fNGRfvGV6IPBX.jpg"
+#EXTINF: -1 =Morbius  
 https://stream.dizipal252.com/hls2/01/00008/,35chjeu1wm7f_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=Kuzeyli tvg-logo="https://image.tmdb.org/t/p/w500/aSSJMnHknzKjlZ6zybwD7eyJ4Po.jpg
+#EXTINF: -1 =Kuzeyli 
 https://stream.dizipal252.com/hls2/02/00008/,drccq7inkfws_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=Liseye Dönüş tvg-logo="https://image.tmdb.org/t/p/w500/6UqbcDQhCYpxboK58Z0eVfdeHcT.jpg
+#EXTINF: -1 =Liseye Dönüş 
 https://stream.dizipal252.com/hls2/01/00008/,ggrtwa0x6bjh_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=Mükemmel Aile tvg-logo="https://image.tmdb.org/t/p/w500/ejRrpBuWj8MNkFP7DUHZoqhuGmV.jpg
+#EXTINF: -1 =Mükemmel Aile 
 https://stream.dizipal252.com/hls2/02/00008/,7gthxml603y3_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=Satranç tvg-logo="https://image.tmdb.org/t/p/w500/uQeNIFR97t8d12uvO5sXhfGdGiO.jpg
+#EXTINF: -1 =Satranç 
 https://stream.dizipal252.com/hls2/02/00008/,vhs39d6t9wdl_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=The Getaway King tvg-logo="https://image.tmdb.org/t/p/w500/aKfq4fYM18rCXeA3Qo0CChZpuRf.jpg
+#EXTINF: -1 =The Getaway King 
 https://stream.dizipal252.com/hls2/02/00008/,6ksugyaegjjh_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=Zoraki İkili tvg-logo="https://image.tmdb.org/t/p/w500/h5hVeCfYSb8gIO0F41gqidtb0AI.jpg
+#EXTINF: -1 =Zoraki İkili 
 https://stream.dizipal252.com/hls2/01/00008/,lfi5fkpglaoh_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=Mutlu Kuzular tvg-logo="https://image.tmdb.org/t/p/w500/oWfhvxJa8B1AhXEU6hUzMpr1dS1.jpg
+#EXTINF: -1 =Mutlu Kuzular 
 https://stream.dizipal252.com/hls2/01/00008/,66fl058rkf0v_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=Karpuz Kabuğundan Gemiler Yapmak tvg-logo="https://image.tmdb.org/t/p/w500/jbffKri4pOJYF1ILdmU6kx3JP7T.jpg
+#EXTINF: -1 =Karpuz Kabuğundan Gemiler Yapmak 
 https://stream.dizipal252.com/hls2/02/00008/,wq5937yucqsg_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=Clifford Büyük Kırmızı Köpek tvg-logo="https://image.tmdb.org/t/p/w500/oifhfVhUcuDjE61V5bS5dfShQrm.jpg
+#EXTINF: -1 =Clifford Büyük Kırmızı Köpek 
 https://stream.dizipal252.com/hls2/01/00008/,ln8gwxxv66a9_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=İlk Aşk tvg-logo="https://image.tmdb.org/t/p/w500/xoBe7iFhHIqP30RczhGS2zML31R.jpg
+#EXTINF: -1 =İlk Aşk tvg-logo="https://image.tmdb.org/t/p/w500/xoBe7iFhHIqP30RczhGS2zML31R.jpg
 https://stream.dizipal252.com/hls2/01/00008/,ubejdz58xszx_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=La svolta tvg-logo="https://image.tmdb.org/t/p/w500/ge7URX8RFL4zAiJ76dprYqs3HEt.jpg
+#EXTINF: -1 =La svolta tvg-logo="https://image.tmdb.org/t/p/w500/ge7URX8RFL4zAiJ76dprYqs3HEt.jpg
 https://stream.dizipal252.com/hls2/01/00008/,iq46byp21k4x_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=Siyah İnci tvg-logo="https://image.tmdb.org/t/p/w500/5ZjMNJJabwBEnGVQoR2yoMEL9um.jpg
+#EXTINF: -1 =Siyah İnci tvg-logo="https://image.tmdb.org/t/p/w500/5ZjMNJJabwBEnGVQoR2yoMEL9um.jpg
 https://stream.dizipal252.com/hls2/01/00008/,7gnnl028exln_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=365 Days: This Day tvg-logo="https://image.tmdb.org/t/p/w500/7qU0SOVcQ8BTJLodcAlulUAG16C.jpg
+#EXTINF: -1 =365 Days: This Day tvg-logo="https://image.tmdb.org/t/p/w500/7qU0SOVcQ8BTJLodcAlulUAG16C.jpg
 https://stream.dizipal252.com/hls2/01/00008/,itisadti9uw6_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=Silverton Siege tvg-logo="https://image.tmdb.org/t/p/w500/5HruMN0vvl84AqD7sCDXFNO4RhP.jpg
+#EXTINF: -1 =Silverton Siege tvg-logo="https://image.tmdb.org/t/p/w500/5HruMN0vvl84AqD7sCDXFNO4RhP.jpg
 https://stream.dizipal252.com/hls2/01/00008/,d66vly5ijl2i_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=Şahane Hayaller tvg-logo="https://image.tmdb.org/t/p/w500/bIEop1n5JBCjnXbVXtgE8vDmKXL.jpg
+#EXTINF: -1 =Şahane Hayaller tvg-logo="https://image.tmdb.org/t/p/w500/bIEop1n5JBCjnXbVXtgE8vDmKXL.jpg
 https://stream.dizipal252.com/hls2/01/00008/,imvdo5a8a2wu_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=Uncharted tvg-logo="https://image.tmdb.org/t/p/w500/sqLowacltbZLoCa4KYye64RvvdQ.jpg
+#EXTINF: -1 =Uncharted tvg-logo="https://image.tmdb.org/t/p/w500/sqLowacltbZLoCa4KYye64RvvdQ.jpg
 https://stream.dizipal252.com/hls2/01/00008/,y9hblvio2cjb_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=Acayip tvg-logo="https://image.tmdb.org/t/p/w500/eL6WhN0cSOfzRZO1wZqTMATMGLt.jpg
+#EXTINF: -1 =Acayip tvg-logo="https://image.tmdb.org/t/p/w500/eL6WhN0cSOfzRZO1wZqTMATMGLt.jpg
 https://stream.dizipal252.com/hls2/01/00008/,67yrwahm0zqg_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=Her Şey Seninle Güzel tvg-logo="https://image.tmdb.org/t/p/w500/mOeLppymP0jaNXqOtlfs088qfgJ.jpg
+#EXTINF: -1 =Her Şey Seninle Güzel tvg-logo="https://image.tmdb.org/t/p/w500/mOeLppymP0jaNXqOtlfs088qfgJ.jpg
 https://stream.dizipal252.com/hls2/01/00008/,f91p7nb7gcqp_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=Amacı Olmayan Grup tvg-logo="https://image.tmdb.org/t/p/w500/7Y3wDZIkvBZLQUO82mxopjdFs2P.jpg
+#EXTINF: -1 =Amacı Olmayan Grup tvg-logo="https://image.tmdb.org/t/p/w500/7Y3wDZIkvBZLQUO82mxopjdFs2P.jpg
 https://stream.dizipal252.com/hls2/01/00008/,rjldz55qpu6n_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=Nil'de Ölüm tvg-logo="https://image.tmdb.org/t/p/w500/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg
+#EXTINF: -1 =Nil'de Ölüm tvg-logo="https://image.tmdb.org/t/p/w500/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg
 https://stream.dizipal252.com/hls2/01/00008/,g8qvuae540xz_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=Come Away tvg-logo="https://image.tmdb.org/t/p/w500/vwa0DgR2tHMouIDTJWje2k7Pp30.jpg
+#EXTINF: -1 =Come Away tvg-logo="https://image.tmdb.org/t/p/w500/vwa0DgR2tHMouIDTJWje2k7Pp30.jpg
 https://stream.dizipal252.com/hls2/01/00008/,r1rvgj09ml78_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=4N1K Düğün tvg-logo="https://image.tmdb.org/t/p/w500/u9vmlPNI3sSguEir5nmdUXNI0kR.jpg
+#EXTINF: -1 =4N1K Düğün tvg-logo="https://image.tmdb.org/t/p/w500/u9vmlPNI3sSguEir5nmdUXNI0kR.jpg
 https://stream.dizipal252.com/hls2/01/00008/,riy3utn1q9ka_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=The Batman tvg-logo="https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg
+#EXTINF: -1 =The Batman tvg-logo="https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg
 https://stream.dizipal252.com/hls2/01/00008/,883bdv1cilt2_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=9,75 Santimetrekare  tvg-logo="https://image.tmdb.org/t/p/w500/1EDXENkqAKJyBDgqbWqkYzN1IS7.jpg
+#EXTINF: -1 =9,75 Santimetrekare  tvg-logo="https://image.tmdb.org/t/p/w500/1EDXENkqAKJyBDgqbWqkYzN1IS7.jpg
 https://stream.dizipal252.com/hls2/01/00008/,wwweptbycy8g_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=Himaye  tvg-logo="https://image.tmdb.org/t/p/w500/o9FY8N5c8CXf22q8s4CmRRjAQJx.jpg
+#EXTINF: -1 =Himaye  tvg-logo="https://image.tmdb.org/t/p/w500/o9FY8N5c8CXf22q8s4CmRRjAQJx.jpg
 https://stream.dizipal252.com/hls2/01/00008/,5jupb7970b2v_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=Seni Bulacam Oğlum!  tvg-logo="https://image.tmdb.org/t/p/w500/po5E7fnL5tdSoRfJz0uLTJgED0L.jpg
+#EXTINF: -1 =Seni Bulacam Oğlum!  tvg-logo="https://image.tmdb.org/t/p/w500/po5E7fnL5tdSoRfJz0uLTJgED0L.jpg
 https://stream.dizipal252.com/hls2/01/00008/,hlu3fj8dsm8g_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=Yaşamak İçin Oyna  tvg-logo="https://image.tmdb.org/t/p/w500/aXjn0V1lsu9LTSpIbcLT6gDltFe.jpg
+#EXTINF: -1 =Yaşamak İçin Oyna  tvg-logo="https://image.tmdb.org/t/p/w500/aXjn0V1lsu9LTSpIbcLT6gDltFe.jpg
 https://stream.dizipal252.com/hls2/01/00008/,72lktn1q4rtu_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=Bebek Bakıcısı Ölmeli  tvg-logo="https://image.tmdb.org/t/p/w500/lNXj0YRUMkdEG08oA5WNNeHLoac.jpg
+#EXTINF: -1 =Bebek Bakıcısı Ölmeli  tvg-logo="https://image.tmdb.org/t/p/w500/lNXj0YRUMkdEG08oA5WNNeHLoac.jpg
 https://stream.dizipal252.com/hls2/01/00008/,coxyk015kvxu_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=Sırtımdaki Bıçaklar  tvg-logo="https://image.tmdb.org/t/p/w500/g4tMniKxol1TBJrHlAtiDjjlx4Q.jpg
+#EXTINF: -1 =Sırtımdaki Bıçaklar  tvg-logo="https://image.tmdb.org/t/p/w500/g4tMniKxol1TBJrHlAtiDjjlx4Q.jpg
 https://stream.dizipal252.com/hls2/01/00008/,trev5rlljdyx_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=Cemil Şov  tvg-logo="https://image.tmdb.org/t/p/w500/cJqOTSLNGnyfajcoB8N9Fq7Eyej.jpg
+#EXTINF: -1 =Cemil Şov  tvg-logo="https://image.tmdb.org/t/p/w500/cJqOTSLNGnyfajcoB8N9Fq7Eyej.jpg
 https://stream.dizipal252.com/hls2/01/00008/,f119ueqr32az_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=Buz Devri: Buck Wild'ın Maceraları  tvg-logo="https://image.tmdb.org/t/p/w500/zzXFM4FKDG7l1ufrAkwQYv2xvnh.jpg
+#EXTINF: -1 =Buz Devri: Buck Wild'ın Maceraları  tvg-logo="https://image.tmdb.org/t/p/w500/zzXFM4FKDG7l1ufrAkwQYv2xvnh.jpg
 https://stream.dizipal252.com/hls2/01/00008/,32cyaorun4lv_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=The Bubble  tvg-logo="https://image.tmdb.org/t/p/w500/edYk5TSowZIDv138bCpF5ls3XI5.jpg
+#EXTINF: -1 =The Bubble  tvg-logo="https://image.tmdb.org/t/p/w500/edYk5TSowZIDv138bCpF5ls3XI5.jpg
 https://stream.dizipal252.com/hls2/01/00008/,09rk10zv2b1p_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=Fanteziler  tvg-logo="https://image.tmdb.org/t/p/w500/gtjJ8PxYPWGg0TmozXSjI1QlwfX.jpg
+#EXTINF: -1 =Fanteziler  tvg-logo="https://image.tmdb.org/t/p/w500/gtjJ8PxYPWGg0TmozXSjI1QlwfX.jpg
 https://stream.dizipal252.com/hls2/01/00008/,gg1zsd83let6_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=Düşeş  tvg-logo="https://image.tmdb.org/t/p/w500/r3eGUCijDCNqwcP1Ri8AZyTbPzI.jpg
+#EXTINF: -1 =Düşeş  tvg-logo="https://image.tmdb.org/t/p/w500/r3eGUCijDCNqwcP1Ri8AZyTbPzI.jpg
 https://stream.dizipal252.com/hls2/01/00008/,twuq8fq8jh4c_n,.urlset/master.m3u8
-#EXTINF: -1 tvg-id=Liseye  tvg-logo="
+#EXTINF: -1 =Liseye  tvg-logo="
 
-#EXTINF: -1 tvg-id=Liseye  tvg-logo="
+#EXTINF: -1 =Liseye  tvg-logo="
 
-#EXTINF: -1 tvg-id=Liseye  tvg-logo="
+#EXTINF: -1 =Liseye  tvg-logo="
 
-#EXTINF: -1 tvg-id=Liseye  tvg-logo="
+#EXTINF: -1 =Liseye  tvg-logo="
 
-#EXTINF: -1 tvg-id=Liseye  tvg-logo="
+#EXTINF: -1 =Liseye  tvg-logo="
 
-#EXTINF: -1 tvg-id=Liseye  tvg-logo="
+#EXTINF: -1 =Liseye  tvg-logo="
 
-#EXTINF: -1 tvg-id=Liseye  tvg-logo="
+#EXTINF: -1 =Liseye  tvg-logo="
 
-#EXTINF: -1 tvg-id=Liseye  tvg-logo="
+#EXTINF: -1 =Liseye  tvg-logo="
 
-#EXTINF: -1 tvg-id=Liseye  tvg-logo="
+#EXTINF: -1 =Liseye  tvg-logo="
 
-#EXTINF: -1 tvg-id=Liseye  tvg-logo="
+#EXTINF: -1 =Liseye  tvg-logo="
 
-#EXTINF: -1 tvg-id=Liseye  tvg-logo="
+#EXTINF: -1 =Liseye  tvg-logo="
 
-#EXTINF: -1 tvg-id=Liseye  tvg-logo="
+#EXTINF: -1 =Liseye  tvg-logo="
 
-#EXTINF: -1 tvg-id=Liseye  tvg-logo="
+#EXTINF: -1 =Liseye  tvg-logo="
 
-#EXTINF: -1 tvg-id=Liseye  tvg-logo="
+#EXTINF: -1 =Liseye  tvg-logo="
 
-#EXTINF: -1 tvg-id=Liseye  tvg-logo="
+#EXTINF: -1 =Liseye  tvg-logo="
