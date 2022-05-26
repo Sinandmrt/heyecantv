@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport Haber Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-spo.m3u8-haber.png" group-title="Spor",beIN Sport Haber Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/32.m3u8
+#EXTINF:-1 tvg-id="bein Spor 1.tr" tvg-name="beIN Sport 1 Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-spo.m3u8-hd-1.png" group-title="Spor",beIN Sport 1 Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 Hd." tvg-logo="https://kanallogo2.com/images/spor/bein-spo.m3u8-hd-1.png" group-title="Spor",beIN Sport 1 Hd.
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/65245.m3u8
+#EXTINF:-1 tvg-id="beinspo.m3u81.tr" tvg-name="beIN Sport 1 UHD" tvg-logo="https://kanallogo2.com/images/spor/bein-spo.m3u8-hd-1.png" group-title="Spor",beIN Sport 1 UHD
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 4K" tvg-logo="https://kanallogo2.com/images/spor/bein-spo.m3u8-hd-1.png" group-title="Spor",beIN Sport 4K
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/103036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 Sd" tvg-logo="https://kanallogo2.com/images/spor/bein-spo.m3u8-hd-1.png" group-title="Spor",beIN Sport 1 Sd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/51445.m3u8
+#EXTINF:-1 tvg-id="beinspo.m3u81.tr" tvg-name="beIN Sport 1 Sd [ Mobile ]" tvg-logo="https://kanallogo2.com/images/spor/bein-spo.m3u8-hd-1.png" group-title="Spor",beIN Sport 1 Sd [ Mobile ]
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/15.m3u8
+#EXTINF:-1 tvg-id="beinspo.m3u82.tr" tvg-name="beIN Sport 2 Sd" tvg-logo="https://kanallogo2.com/images/spor/bein-spo.m3u8-hd-2.png" group-title="Spor",beIN Sport 2 Sd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/17.m3u8
+#EXTINF:-1 tvg-id="beinspo.m3u82.tr" tvg-name="beIN Sport 2 Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-spo.m3u8-hd-2.png" group-title="Spor",beIN Sport 2 Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/19.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport  3 Sd" tvg-logo="https://kanallogo2.com/images/spor/bein-spo.m3u8-hd-3.png" group-title="Spor",beIN Sport  3 Sd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/21.m3u8
+#EXTINF:-1 tvg-id="beinspo.m3u83.tr" tvg-name="beIN Sport 3 Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-spo.m3u8-hd-3.png" group-title="Spor",beIN Sport 3 Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/20.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 4 Sd" tvg-logo="https://kanallogo2.com/images/spor/bein-spo.m3u8-hd-4.png" group-title="Spor",beIN Sport 4 Sd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/26.m3u8
+#EXTINF:-1 tvg-id="beinspo.m3u84.tr" tvg-name="beIN Sport  4 Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-spo.m3u8-hd-4.png" group-title="Spor",beIN Sport  4 Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/25.m3u8
+#EXTINF:-1 tvg-id="beinspo.m3u8max1.tr" tvg-name="beIN Spo.m3u8 Max 1 Sd" tvg-logo="https://kanallogo2.com/images/spor/bein-spo.m3u8-max-1.png" group-title="Spor",beIN Spo.m3u8 Max 1 Sd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/29.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Spo.m3u8 Max 1 Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-spo.m3u8-max-1.png" group-title="Spor",beIN Spo.m3u8 Max 1 Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/28.m3u8
+#EXTINF:-1 tvg-id="beinspo.m3u8max2.tr" tvg-name="beIN Spo.m3u8 Max 2 Sd" tvg-logo="https://kanallogo2.com/images/spor/bein-spo.m3u8-max-2.png" group-title="Spor",beIN Spo.m3u8 Max 2 Sd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/31.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Spo.m3u8 Max 2 Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-spo.m3u8-max-2.png" group-title="Spor",beIN Spo.m3u8 Max 2 Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/30.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Connect 1 Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-connect.png" group-title="Spor",beIN Connect 1 Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/64942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Connect 2 Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-connect.png" group-title="Spor",beIN Connect 2 Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/64943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Connect 3 Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-connect.png" group-title="Spor",beIN Connect 3 Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/64944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Connect 4 Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-connect.png" group-title="Spor",beIN Connect 4 Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/64945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Connect 5 Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-connect.png" group-title="Spor",beIN Connect 5 Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/64946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S Sport Sd" tvg-logo="https://kanallogo2.com/images/spor/s-sport-hd.png" group-title="Spor",S Sport Sd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/34.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S Sport Hd" tvg-logo="https://kanallogo2.com/images/spor/s-sport-hd.png" group-title="Spor",S Sport Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/33.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S Spor 2 Sd" tvg-logo="https://kanallogo2.com/images/spor/s-sport-2.png" group-title="Spor",S Spor 2 Sd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/67184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S Sport 2 Hd" tvg-logo="https://kanallogo2.com/images/spor/s-sport-2.png" group-title="Spor",S Sport 2 Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spor Smart Hd" tvg-logo="https://kanallogo2.com/images/spor/smart-spor.png" group-title="Spor",Spor Smart Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Smart Spor 1 Hd" tvg-logo="https://kanallogo2.com/images/spor/smart-spor.png" group-title="Spor",Smart Spor 1 Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/36.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Smart Spor 2 Hd" tvg-logo="https://kanallogo2.com/images/spor/Smart-spor-2.png" group-title="Spor",Smart Spor 2 Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/29403.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 1 Hd" tvg-logo="https://kanallogo2.com/images/spor/Tivibu_Spor_hd.png" group-title="Spor",Tivibu Spor 1 Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 2 Hd" tvg-logo="https://kanallogo2.com/images/spor/Tivibu_Spor_hd.png" group-title="Spor",Tivibu Spor 2 Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/40.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 3 Hd" tvg-logo="https://kanallogo2.com/images/spor/Tivibu_Spor_hd.png" group-title="Spor",Tivibu Spor 3 Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/41.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 4 Hd" tvg-logo="https://kanallogo2.com/images/spor/Tivibu_Spor_hd.png" group-title="Spor",Tivibu Spor 4 Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/34374.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 5 Hd" tvg-logo="https://kanallogo2.com/images/spor/Tivibu_Spor_hd.png" group-title="Spor",Tivibu Spor 5 Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/106398.m3u8
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="A Spor Hd" tvg-logo="https://kanallogo2.com/images/spor/a-spor.png" group-title="Spor",A Spor Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/47.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Spor Fhd" tvg-logo="https://kanallogo2.com/images/spor/a-spor.png" group-title="Spor",A Spor Fhd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/76867.m3u8
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="A Spor Uhd" tvg-logo="https://kanallogo2.com/images/spor/a-spor.png" group-title="Spor",A Spor Uhd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/22503.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT Spor HD" tvg-logo="https://kanallogo2.com/images/spor/trt-spor-hd.png" group-title="Spor",TRT Spor HD
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/67193.m3u8
+#EXTINF:-1 tvg-id="t.m3u8por.tr" tvg-name="TRT Spor Hd" tvg-logo="https://kanallogo2.com/images/spor/trt-spor-hd.png" group-title="Spor",TRT Spor Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/45.m3u8
+#EXTINF:-1 tvg-id="t.m3u8por.tr" tvg-name="TRT Spor Uhd" tvg-logo="https://kanallogo2.com/images/spor/trt-spor-hd.png" group-title="Spor",TRT Spor Uhd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/46.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT Spor Yildiz" tvg-logo="https://kanallogo2.com/images/spor/trt-spor-yildiz.png" group-title="Spor",TRT Spor Yildiz
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/76631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT Spor Yildiz Hd" tvg-logo="https://kanallogo2.com/images/spor/trt-spor-yildiz.png" group-title="Spor",TRT Spor Yildiz Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/67072.m3u8
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="Eurosport 1 Hd" tvg-logo="https://kanallogo2.com/images/spor/eurosport-1.png" group-title="Spor",Eurosport 1 Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/43.m3u8
+#EXTINF:-1 tvg-id="eurosport2tr.tr" tvg-name="Eurosport 2 Hd" tvg-logo="https://kanallogo2.com/images/spor/eurosport-2.png" group-title="Spor",Eurosport 2 Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/44.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 1 Hd" tvg-logo="https://kanallogo2.com/images/spor/Exxen.png" group-title="Spor",Exxen Spor 1 Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/76633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 1 Hd [ 1080p ]" tvg-logo="https://kanallogo2.com/images/spor/Exxen.png" group-title="Spor",Exxen Spor 1 Hd [ 1080p ]
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/79786.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 2 Hd" tvg-logo="https://kanallogo2.com/images/spor/Exxen.png" group-title="Spor",Exxen Spor 2 Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/76634.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 3 Hd" tvg-logo="https://kanallogo2.com/images/spor/Exxen.png" group-title="Spor",Exxen Spor 3 Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/76635.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 4 Hd" tvg-logo="https://kanallogo2.com/images/spor/Exxen.png" group-title="Spor",Exxen Spor 4 Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/79591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 5 Hd" tvg-logo="https://kanallogo2.com/images/spor/Exxen.png" group-title="Spor",Exxen Spor 5 Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/81789.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 6 Hd" tvg-logo="https://kanallogo2.com/images/spor/Exxen.png" group-title="Spor",Exxen Spor 6 Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/81790.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 7 Hd" tvg-logo="https://kanallogo2.com/images/spor/Exxen.png" group-title="Spor",Exxen Spor 7 Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/81793.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 8 Hd" tvg-logo="https://kanallogo2.com/images/spor/Exxen.png" group-title="Spor",Exxen Spor 8 Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/81794.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gs Tv Hd" tvg-logo="https://kanallogo2.com/images/spor/gs-tv.png" group-title="Spor",Gs Tv Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/49.m3u8
+#EXTINF:-1 tvg-id="fenerbahcetv.tr" tvg-name="Fb Tv Hd" tvg-logo="https://kanallogo2.com/images/spor/fb-tv.png" group-title="Spor",Fb Tv Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/50.m3u8
+#EXTINF:-1 tvg-id="spo.m3u8tv.tr" tvg-name="Spo.m3u8 Tv" tvg-logo="https://kanallogo2.com/images/spor/spo.m3u8_tv.png" group-title="Spor",Spo.m3u8 Tv
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/38.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tay Tv Hd" tvg-logo="https://kanallogo2.com/images/spor/tjk-tv.png" group-title="Spor",Tay Tv Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/48.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA Tv Hd" tvg-logo="https://kanallogo2.com/images/spor/nba-tv.png" group-title="Spor",NBA Tv Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/42.m3u8
+#EXTINF:-1 tvg-id="fastandfun.tr" tvg-name="Fast Funbox Hd" tvg-logo="https://kanallogo2.com/images/spor/fastandfunbox.png" group-title="Spor",Fast Funbox Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/23372.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fight Box Hd" tvg-logo="https://kanallogo2.com/images/spor/Fightbox.png" group-title="Spor",Fight Box Hd
+http://herti.tarafimizkalite.com:80/live/vavoo.1505/ozsat/23349.m3u8
