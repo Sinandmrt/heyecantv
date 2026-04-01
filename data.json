@@ -1,23 +1,30 @@
 [
   {
-    "name": "Power Sinema 1",
+    "name": "Film 1",
     "group": "Aksiyon",
-    "logo": "https://via.placeholder.com/400x225?text=Power+1",
+    "logo": "https://via.placeholder.com/400x225?text=Film+1",
     "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
     "type": "film"
   },
   {
-    "name": "Power Sinema 2",
+    "name": "Film 2",
     "group": "Macera",
-    "logo": "https://via.placeholder.com/400x225?text=Power+2",
+    "logo": "https://via.placeholder.com/400x225?text=Film+2",
     "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     "type": "film"
   },
   {
-    "name": "Power Sinema 3",
+    "name": "Film 3",
     "group": "Bilim Kurgu",
-    "logo": "https://via.placeholder.com/400x225?text=Power+3",
+    "logo": "https://via.placeholder.com/400x225?text=Film+3",
     "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "type": "film"
+  },
+  {
+    "name": "Film 4",
+    "group": "Drama",
+    "logo": "https://via.placeholder.com/400x225?text=Film+4",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
     "type": "film"
   }
 ]
