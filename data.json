@@ -1,12 +1,12 @@
 [
   {
-    "title": "Power Sinema",
-    "image": "https://via.placeholder.com/400x225?text=Power+Sinema",
-    "url": "https://raw.githubusercontent.com/GitLatte/patr0n/refs/heads/site/lists/power-sinema.m3u"
+    "title": "Film 1",
+    "image": "https://via.placeholder.com/400x225?text=Film+1",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   },
   {
-    "title": "Fanatik Film",
-    "image": "https://via.placeholder.com/400x225?text=Fanatik+Film",
-    "url": "https://cdn.jsdelivr.net/gh/Playtvapp/Playtvlist@main/F%C4%B0LMLERFANT%C4%B0KAPPP.m3u"
+    "title": "Film 2",
+    "image": "https://via.placeholder.com/400x225?text=Film+2",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
   }
 ]
