@@ -1,72 +1,12 @@
 [
   {
-    "title": "Aile",
-    "type": "dizi",
-    "letter": "A",
-    "image": "https://via.placeholder.com/300x170?text=Aile",
-    "url": "https://tvdiziler.tv/dizi-izle"
+    "title": "Film 1",
+    "image": "https://via.placeholder.com/400x225?text=Film+1",
+    "url": "https://raw.githubusercontent.com/GitLatte/patr0n/refs/heads/site/lists/power-sinema.m3u"
   },
   {
-    "title": "Ada Masalı",
-    "type": "dizi",
-    "letter": "A",
-    "image": "https://via.placeholder.com/300x170?text=Ada+Masali",
-    "url": "https://tvdiziler.tv/dizi-izle"
-  },
-  {
-    "title": "Adım Farah",
-    "type": "dizi",
-    "letter": "A",
-    "image": "https://via.placeholder.com/300x170?text=Adim+Farah",
-    "url": "https://tvdiziler.tv/dizi-izle"
-  },
-  {
-    "title": "Bahar",
-    "type": "dizi",
-    "letter": "B",
-    "image": "https://via.placeholder.com/300x170?text=Bahar",
-    "url": "https://tvdiziler.tv/dizi-izle"
-  },
-  {
-    "title": "Bir Gece Masalı",
-    "type": "dizi",
-    "letter": "B",
-    "image": "https://via.placeholder.com/300x170?text=Bir+Gece",
-    "url": "https://tvdiziler.tv/dizi-izle"
-  },
-  {
-    "title": "Cemile",
-    "type": "film",
-    "letter": "C",
-    "image": "https://via.placeholder.com/300x170?text=Cemile",
-    "url": "https://tvdiziler.tv/dizi-izle"
-  },
-  {
-    "title": "Çukur",
-    "type": "dizi",
-    "letter": "C",
-    "image": "https://via.placeholder.com/300x170?text=Cukur",
-    "url": "https://tvdiziler.tv/dizi-izle"
-  },
-  {
-    "title": "Disney+",
-    "type": "kanal",
-    "letter": "D",
-    "image": "https://via.placeholder.com/300x170?text=Disney",
-    "url": "https://filmmakinesi.to/kanallar/"
-  },
-  {
-    "title": "Netflix",
-    "type": "kanal",
-    "letter": "N",
-    "image": "https://via.placeholder.com/300x170?text=Netflix",
-    "url": "https://filmmakinesi.to/kanallar/"
-  },
-  {
-    "title": "HBO",
-    "type": "kanal",
-    "letter": "H",
-    "image": "https://via.placeholder.com/300x170?text=HBO",
-    "url": "https://filmmakinesi.to/kanallar/"
+    "title": "Film 2",
+    "image": "https://via.placeholder.com/400x225?text=Film+2",
+    "url": "https://cdn.jsdelivr.net/gh/Playtvapp/Playtvlist@main/F%C4%B0LMLERFANT%C4%B0KAPPP.m3u"
   }
 ]
